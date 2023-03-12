@@ -1,0 +1,2 @@
+# DuckDaoMiner
+DuckDaoMiner for OpenComputers!
